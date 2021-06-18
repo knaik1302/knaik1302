@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @knaik1302
-- 👀 I’m interested in python, web developement(front end).
+- 👀 I’m interested in python, web developement(front end), drawing.
 - 🌱 I’m currently learning reactjs.
 - 💞️ I’m looking to collaborate on reactjs projects.
 
